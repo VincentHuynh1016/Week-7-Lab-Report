@@ -17,10 +17,11 @@
 # Step 6 (Run the tests, demonstrating that they fail)
 
 1. `<cd>` into the lab7 directory
-2. I then compiled the code first : Typed in  `<-cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java>`
-3. After I ran the code to demonstrate that the code has failed the tests : Typed in: `<java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests.java>`
+2. I then compiled the code first : Typed in  `<javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java>`
+3. I ran the code to demonstrate that the code has failed the tests : Typed in: `<java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests>`
 
-![image](https://github.com/VincentHuynh1016/Week-7-Lab-Report/assets/114731503/ca60611f-4a5e-4c4b-ba20-5fd478cd30e1)
+![image](https://github.com/VincentHuynh1016/Week-7-Lab-Report/assets/114731503/4ff2fbb2-c3b4-4aa6-a42f-83c55023eb00)
+
 
 # Step 7 (Edit the code file to fix the failing test)
 
@@ -41,7 +42,13 @@
 #### After:
 ![image](https://github.com/VincentHuynh1016/Week-7-Lab-Report/assets/114731503/8a91fef6-3ec5-4230-a047-638d1a8d0d72)
 
+# Step 8 (Run the tests, demonstrating that they now succeed)
 
+1. I then compiled the code first : Typed in  `<javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java>`
+2. I ran the code to demonstrate that the code has passed the tests : Typed in: `<java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests>`
 
+![image](https://github.com/VincentHuynh1016/Week-7-Lab-Report/assets/114731503/959c8956-9e57-4dcf-97ef-a12c41ed0048)
+
+# Step 9 (Commit and push the resulting change to your Github account (you can pick any commit message!)
 
 
