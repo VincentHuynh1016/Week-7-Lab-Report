@@ -51,4 +51,10 @@
 
 # Step 9 (Commit and push the resulting change to your Github account (you can pick any commit message!)
 
+1. First typed in `<git add>` and then the java file I modified which was `ListExamples.java`. To continue I pressed the `<enter>` key.
+2. I typed in `<git status>` to see the changes commited
+3. I then commited those changed with a message saying that I changed index1 to index2 : `git commit -m "Changed index1 to index2"`
+4. Then I git pushed
+
+![image](https://github.com/VincentHuynh1016/Week-7-Lab-Report/assets/114731503/d52ded9e-f7e0-4507-8e60-513c00017b26)
 
