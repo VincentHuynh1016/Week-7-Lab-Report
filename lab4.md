@@ -57,6 +57,7 @@
 4. Then I git pushed
 
 ![image](https://github.com/VincentHuynh1016/Week-7-Lab-Report/assets/114731503/d52ded9e-f7e0-4507-8e60-513c00017b26)
-![image](https://github.com/VincentHuynh1016/Week-7-Lab-Report/assets/114731503/199ac9ed-c0ec-4489-ac29-fe9c773dd640)
+![image](https://github.com/VincentHuynh1016/Week-7-Lab-Report/assets/114731503/1b5b30ae-03ce-45ba-a06c-1b08b28d0162)
+
 
 
