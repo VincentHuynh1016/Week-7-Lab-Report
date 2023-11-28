@@ -9,9 +9,9 @@
 
 1. I forked the actual website repository from https://github.com/ucsd-cse15l-s23/lab7
 
-2. Copied the ssh URL from my forked repository
+2. Copied the ssh URL from my forked repository: `git@github.com:VincentHuynh1016/Week7-Lab.git`
 
-3. Went into my ieng6 and used the URL to clone the repository
+3. Went into my ieng6 doing the command: `<ssh cs15lfa23jn@ieng6.ucsd.edu>` and used the ssh URL above to clone the repository
    -Typed in `<git clone git@github.com:VincentHuynh1016/Week7-Lab.git>`
 
 5. Clicked `<enter>` and then the repository was now in my ssh.
