@@ -7,7 +7,7 @@
 
 # Step 5 (Clone your fork of the repository from your Github account (using the SSH URL))
 
-1. I forked the actual website repository from https://github.com/ucsd-cse15l-s23/lab7
+1. I forked the actual website repository from `https://github.com/ucsd-cse15l-s23/lab7`
 
 2. Copied the ssh URL from my forked repository: `git@github.com:VincentHuynh1016/Week7-Lab.git`
 
