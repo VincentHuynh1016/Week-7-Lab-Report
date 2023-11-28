@@ -7,12 +7,17 @@
 
 # Step 5 (Clone your fork of the repository from your Github account (using the SSH URL))
 
-1. I cloned the repository using the SSH URL
-   - Typed `<git clone git@github.com:ucsd-cse15l-s23/lab7.git>`
+1. I forked the actual website repository from https://github.com/ucsd-cse15l-s23/lab7
 
-2. Clicked `<enter>` and then the repository was now in my ssh.
+2. Copied the ssh URL from my forked repository
 
-![image](https://github.com/VincentHuynh1016/Week-7-Lab-Report/assets/114731503/800ca226-edcb-4b8d-8289-31ff7428bfe1)
+3. Went into my ieng6 and used the URL to clone the repository
+   -Typed in `<git clone git@github.com:VincentHuynh1016/Week7-Lab.git>`
+
+5. Clicked `<enter>` and then the repository was now in my ssh.
+
+<img width="1495" alt="Screenshot 2023-11-28 at 11 37 55 AM" src="https://github.com/VincentHuynh1016/Week-7-Lab-Report/assets/114731503/3873a3d6-a959-4473-a9f7-f801fa081661">
+
 
 # Step 6 (Run the tests, demonstrating that they fail)
 
